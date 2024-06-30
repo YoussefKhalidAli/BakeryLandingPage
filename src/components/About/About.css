@@ -1,0 +1,40 @@
+.aboutContainer {
+  display: flex;
+  width: 100%;
+  background-color: #141414;
+}
+
+.aboutContainer > * {
+  width: 50%;
+}
+
+.aboutContainer span {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 50px;
+  color: #fff;
+}
+
+.aboutContainer span h1 {
+  font-size: 2rem;
+  color: rgb(0, 0, 255);
+}
+
+.aboutContainer span p {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 1200px) {
+  .aboutContainer {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .aboutContainer > * {
+    width: 100%;
+  }
+
+  .aboutContainer span {
+    margin: 0px;
+  }
+}

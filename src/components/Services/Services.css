@@ -1,0 +1,20 @@
+.servicesContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #141414;
+}
+
+.servicesContainer span {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+  margin: 20px 0px;
+}
+
+.servicesContainer h1:first-child {
+  padding-top: 50px;
+  color: rgb(0, 0, 255);
+}
