@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BakeryLandingPage/static/css/main.fd678f5e.css",
+    "main.js": "/BakeryLandingPage/static/js/main.4d5fa7d7.js",
+    "static/js/453.6b09c69b.chunk.js": "/BakeryLandingPage/static/js/453.6b09c69b.chunk.js",
+    "static/media/zack-payne-NFaTmUTpbXk-unsplash.jpg": "/BakeryLandingPage/static/media/zack-payne-NFaTmUTpbXk-unsplash.db8072e2a376a886b246.jpg",
+    "static/media/melissa-walker-horn-4on47p0-bk4-unsplash.jpg": "/BakeryLandingPage/static/media/melissa-walker-horn-4on47p0-bk4-unsplash.fce769aeabd6988a5e7c.jpg",
+    "static/media/jason-leung-fXAuCMEYGY4-unsplash.jpg": "/BakeryLandingPage/static/media/jason-leung-fXAuCMEYGY4-unsplash.0bf005cf8401ff30b953.jpg",
+    "static/media/emily-studer-gT-6atvGlFU-unsplash.jpg": "/BakeryLandingPage/static/media/emily-studer-gT-6atvGlFU-unsplash.c92ada27dde183b81e1f.jpg",
+    "static/media/redcharlie-t-7KEq9M0b0-unsplash.jpg": "/BakeryLandingPage/static/media/redcharlie-t-7KEq9M0b0-unsplash.d8126cbd0038ce7df17a.jpg",
+    "static/media/pixlr-image-generator-0a139eeb-e319-4142-a1bc-ecaed27548b9.png": "/BakeryLandingPage/static/media/pixlr-image-generator-0a139eeb-e319-4142-a1bc-ecaed27548b9.dfb1ebc02a2ff1f25c35.png",
+    "static/media/fa-solid-900.ttf": "/BakeryLandingPage/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/david-holifield-gXgwsCshtnc-unsplash.jpg": "/BakeryLandingPage/static/media/david-holifield-gXgwsCshtnc-unsplash.12282f2c3681bc34ff32.jpg",
+    "static/media/fa-brands-400.ttf": "/BakeryLandingPage/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/BakeryLandingPage/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/BakeryLandingPage/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/BakeryLandingPage/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/BakeryLandingPage/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/BakeryLandingPage/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/BakeryLandingPage/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/BakeryLandingPage/index.html",
+    "main.fd678f5e.css.map": "/BakeryLandingPage/static/css/main.fd678f5e.css.map",
+    "main.4d5fa7d7.js.map": "/BakeryLandingPage/static/js/main.4d5fa7d7.js.map",
+    "453.6b09c69b.chunk.js.map": "/BakeryLandingPage/static/js/453.6b09c69b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd678f5e.css",
+    "static/js/main.4d5fa7d7.js"
+  ]
+}
